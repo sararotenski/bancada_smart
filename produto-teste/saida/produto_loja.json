@@ -1,0 +1,13 @@
+{
+  "id": "SMART40-SIMPLE-BLACK",
+  "blockType": "simple",
+  "boxes": [
+    {
+      "boxColor": "black",
+      "side1Color": "black",
+      "side2Color": "black",
+      "side3Color": "black"
+    }
+  ],
+  "quantity": 1
+}

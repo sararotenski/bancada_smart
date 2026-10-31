@@ -1,0 +1,2 @@
+﻿codigo,descricao,tipo_bloco,quantidade_caixas,quantidade_laminas,cor_base,cor_laminas,preco_loja,unidade_medida,loja,observacao
+SMART40-SIMPLE-BLACK,"Bloco Simples - Caixa 1: base preta, 3 laminas pretas",Bloco Simples,1,3,Preta,Preta,150.0,UN,https://bancadasmart.vercel.app,Produto de teste da integracao Smart 4.0 x Senior ERP X

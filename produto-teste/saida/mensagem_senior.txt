@@ -1,0 +1,19 @@
+Olá,
+
+Segue o primeiro produto de teste da integração Smart 4.0 x Senior ERP X.
+Pedimos, por favor, o cadastro do item no ERP (empresa 1, filial 2 - SENAI Blumenau)
+com exatamente este código, pois ele será enviado em items[].product.code
+nos pedidos de venda feitos pela loja (https://bancadasmart.vercel.app):
+
+  Código:              SMART40-SIMPLE-BLACK
+  Descrição:           Bloco Simples - Caixa 1: base preta, 3 laminas pretas
+  Tipo de bloco:       Bloco Simples (1 caixa)
+  Cor da base:         Preta
+  Lâminas:             3, todas pretas
+  Unidade de medida:   UN
+  Preço na loja:       R$ 150.00
+
+Os dados também estão nos arquivos JSON e CSV em anexo.
+Se o ERP exigir outros campos (NCM, família, origem, etc.), nos avisem.
+
+Obrigado!
