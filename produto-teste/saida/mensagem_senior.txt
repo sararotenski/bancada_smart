@@ -16,4 +16,4 @@ nos pedidos de venda feitos pela loja (https://bancadasmart.vercel.app):
 Os dados também estão nos arquivos JSON e CSV em anexo.
 Se o ERP exigir outros campos (NCM, família, origem, etc.), nos avisem.
 
-Obrigado!
+Obrigada!
